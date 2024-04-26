@@ -44,6 +44,12 @@ The players are categorized into Openers, Middle Order, Finishers, All rounders,
 <img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/Fastbowlers.png"> <br>Fig: Fast Bowlers Parameter
 </p>
 
+### Spinners
+* To select 3 Spin bowlers based on their performance.
+<p align ="center">
+<img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/Spinners.png"> <br>Fig: Spin Bowlers Parameter
+</p>
+
 ## 3. Data Collection
 Data Collection using web scrapping from [espn website](https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134).
 
