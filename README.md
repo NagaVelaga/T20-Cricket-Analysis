@@ -53,7 +53,7 @@ The players are categorized into Openers, Middle Order, Finishers, All rounders,
 ## 3. Data Collection
 Data Collection using web scrapping from [espn website](https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134).
 
-Used Brightdata tool to scrap the data from the website. We get all the information in the form of json files.
+Used Beautifulsoup tool to scrap the data from the website. We get all the information in the form of json files.
 
 ## 4. Data Cleaning and Processing
 In jupyter notebook all the files are cleaned and then processed.
